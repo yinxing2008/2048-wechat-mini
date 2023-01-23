@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/lblbc_2048/lblbc_2048"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "蓝不蓝编程",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
